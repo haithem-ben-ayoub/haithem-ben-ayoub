@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Haïthem Ben Ayoub 👋 (aka iThem)
 
-<!--
-**haithem-ben-ayoub/haithem-ben-ayoub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Enterprise CRM Solution Architect & Tech Lead
+Bridging executive strategy, enterprise integration (Salesforce & Dynamics 365), and high-scale technical architecture.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 What I Do
+- 🏛️ **Enterprise Architecture:** Designing hybrid CRM, ERP (SAP), and iPaaS ecosystems.
+- ⚡ **Multi-Cloud Integration:** MuleSoft CloudHub 2.0, Azure Services, Power Platform & REST/SOAP APIs.
+- 🤖 **Agentic AI & Automation:** Integrating Enterprise AI Agents (Agentforce) & Multi-LLM workflows.
+- 🛡️ **Governance & Delivery:** Advisory for CABs, technical leadership, GDPR compliance, and CI/CD pipelines.
+
+---
+
+### 🛠️ Core Tech Stack
+- **CRM:** Salesforce (Apex, LWC, Agentforce) | Microsoft Dynamics 365 CE
+- **Integration & Cloud:** MuleSoft, Azure Logic Apps, Azure Functions, Azure Service Bus
+- **Low-Code & Data:** Power Apps, Dataverse, Power Automate, Microsoft Fabric
+- **AI Stack:** Agentic AI, Prompt Engineering, Claude, OpenAI, Gemini, DeepSeek
+
+---
+
+### 📌 Connect with Me
+- 💼 **LinkedIn:** [linkedin.com/in/haithem-ben-ayoub](https://www.linkedin.com/in/haithem-ben-ayoub)
