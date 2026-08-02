@@ -22,8 +22,9 @@ Bridging executive strategy, enterprise integration (Salesforce & Dynamics 365),
 ---
 
 ### 📌 Connect with Me
-- 🌐 **Enterprise Architecture Hub:** [https://haithem.benayoub.com](https://haithem.benayoub.com)
-- 💼 **LinkedIn:** [linkedin.com/in/haithem-ben-ayoub](https://www.linkedin.com/in/haithem-ben-ayoub)
-- 📜 **Credly Certifications:** [https://www.credly.com/users/haithem-ben-ayoub](https://www.credly.com/users/haithem-ben-ayoub)
-- ⚡ **Salesforce Trailblazer Profile:** https://www.salesforce.com/trailblazer/haithem-ben-ayoub
-- 🎓 **Microsoft Learn Profile:** [https://learn.microsoft.com/users/haithem-ben-ayoub](https://learn.microsoft.com/users/haithem-ben-ayoub)
+* 🌐 **Enterprise Architecture Hub:** [https://haithem.benayoub.com](https://haithem.benayoub.com)
+* 💼 **LinkedIn:** [linkedin.com/in/haithem-ben-ayoub](https://www.linkedin.com/in/haithem-ben-ayoub)
+* 📜 **Credly Certifications:** [https://www.credly.com/users/haithem-ben-ayoub](https://www.credly.com/users/haithem-ben-ayoub)
+* ⚡ **Salesforce Trailblazer Profile:** [https://www.salesforce.com/trailblazer/haithem-ben-ayoub](https://www.salesforce.com/trailblazer/haithem-ben-ayoub)
+* 🎓 **Microsoft Learn Profile:** [https://learn.microsoft.com/users/haithem-ben-ayoub](https://learn.microsoft.com/users/haithem-ben-ayoub)
+* 🐦 **X (Twitter):** [x.com/haithembenayoub](https://x.com/haithembenayoub)
