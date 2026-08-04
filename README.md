@@ -1,5 +1,3 @@
-haithem-ben-ayoub.medium.com
-
 # Hi there, I'm Haïthem Ben Ayoub 👋 (aka iThem)
 
 ### 🚀 Enterprise CRM Solution Architect & Tech Lead
